@@ -1,3 +1,5 @@
+Laravel version: 11
+
 ## Project Setup guide
 
 - Clone repository "git clone https://github.com/jsyadav1996/vector-search.git"
